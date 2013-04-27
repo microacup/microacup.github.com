@@ -7,10 +7,11 @@ tagline: 自由遥不可及
 
 ######	01:22:45
 
+<div class="alert alert-success">
+<p style="text-align:left">女神：你怎么还不睡？</p>
+</div>
 <div class="alert alert-info">
-	女神：你怎么还不睡？</br>
-
-	我：等我写完这段代码。</br>
+<p style="text-align:right">我：等我写完这段代码。</p>
 </div>
 ---
 <div id="content">

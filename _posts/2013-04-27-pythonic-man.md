@@ -2,8 +2,8 @@
 layout: post
 title: "Pythonic man"
 description: ""
-category: 
-tags: []
+category:
+tags: [python]
 ---
 {% include JB/setup %}
 
