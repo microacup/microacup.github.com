@@ -5,12 +5,13 @@ tagline: 自由遥不可及
 ---
 {% include JB/setup %}
 
-2013年4月27日1:22:45
+######	01:22:45
 
-	女神：你怎么还不睡？
+<div class="alert alert-info">
+	女神：你怎么还不睡？</br>
 
-	我：等我写完这段代码。
-
+	我：等我写完这段代码。</br>
+</div>
 ---
 <div id="content">
     <div class="text-post posts">
