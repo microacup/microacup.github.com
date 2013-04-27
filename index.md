@@ -7,12 +7,24 @@ tagline: 自由遥不可及
 
 ######	01:22:45
 
-<div class="alert alert-info">
-	女神：你怎么还不睡？</br>
-
-	我：等我写完这段代码。</br>
+<div class="alert alert-success span6">
+	<p style="text-align:left">女神：你怎么还不睡？</p>
 </div>
+
+<div class="alert alert-info span6 offset6">
+	<p style="text-align:right">我：等我写完这段代码。</p>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ---
+
 <div id="content">
     <div class="text-post posts">
 
