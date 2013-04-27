@@ -63,3 +63,7 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+  
+::-moz-selection { color:#fff; background-color:#35b926;}
+::-webkit-selection { color:#fff; background-color:#35b926;}
+::selection { color:#fff; background-color:#35b926;}
