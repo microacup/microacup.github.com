@@ -29,13 +29,13 @@ tagline: 自由遥不可及
     <div class="text-post posts">
 
 	{% for post in site.posts limit:5 %}
-
+	<div class="panel" style="background-color: #fff">
 		<h2><a class="post_title" href="{{ post.url }}">{{post.title}}</a></h2>
 
 		<div class="caption rich-content">
 			{{ post.content }}
 		</div>
-
+	</div>
 	{% endfor %}
 
     </div>
