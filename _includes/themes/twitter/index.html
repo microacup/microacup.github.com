@@ -15,3 +15,24 @@
   </div>
 </div>
 </div>
+
+<a href="#" id="dynamic-to-top" style="display: none;"><span>&nbsp;</span></a>
+
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+  $(window).scroll(function(){
+           var sc=$(window).scrollTop();
+           var rwidth=$(window).width()
+          if(sc>0){
+                $("#dynamic-to-top").css("display","inline");
+          }else{
+            $("#dynamic-to-top").css("display","none");
+          }
+          });
+            
+      $("#dynamic-to-top").click(function(){
+          var sc=$(window).scrollTop();
+         $('body,html').animate({scrollTop:0},500);
+          });       
+            
+</script>
