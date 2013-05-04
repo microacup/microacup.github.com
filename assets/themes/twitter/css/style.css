@@ -1,4 +1,98 @@
 /* Custom container */
+.bs-docs {
+  position: relative;
+  margin: 15px 0;
+  padding: 39px 19px 14px;
+  *padding-top: 19px;
+  background-color: #fff;
+  border: 2px solid #ddd;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+.bs-docs:after {
+  content: "01:22:45";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  color: #9da0a4;
+  -webkit-border-radius: 4px 0 4px 0;
+     -moz-border-radius: 4px 0 4px 0;
+          border-radius: 4px 0 4px 0;
+}
+
+.bs-docs + .prettyprint {
+  margin-top: -20px;
+  padding-top: 15px;
+}
+
+.bs-docs > p:last-child {
+  margin-bottom: 0;
+}
+.bs-docs .table,
+.bs-docs .progress,
+.bs-docs .well,
+.bs-docs .alert,
+.bs-docs .hero-unit,
+.bs-docs .pagination,
+.bs-docs .navbar,
+.bs-docs > .nav,
+.bs-docs blockquote {
+  margin-bottom: 5px;
+}
+.bs-docs .pagination {
+  margin-top: 0;
+}
+.bs-docs-popover {
+  padding-bottom: 24px;
+  background-color: #f9f9f9;
+}
+.bs-docs-popover .popover {
+  position: relative;
+  display: block;
+  float: left;
+  width: 260px;
+  margin: 20px;
+}
+
+.bs-docs-popover .popover.right .arrow:after{
+    border-right-color: #73BA2C;
+}
+.bs-docs-popover .right {
+    background-color: #73BA2C;
+    *background: -webkit-gradient(linear, left top,left bottom, from(#C4DE94),to(#A4C363), color-stop(0.1,#B4D174),color-stop(0.2,#B2CF73), color-stop(0.3,#B2CF73), color-stop(0.4,#B2CF73), color-stop(0.5,#B2CF73),color-stop(0.6,#AFCC74), color-stop(0.7,#ABCA6C),color-stop(0.8,#AECA72), color-stop(0.9,#A9C572),color-stop(1.0,#A4C363));
+    border-color: transparent;
+    border: 1px solid #73BA2C;
+    left: 30px;
+}
+.bs-docs-popover .left {
+    margin-top:80px;
+}
+.bs-docs-popover .avatar {
+    float: left;
+    margin-right: 18px;
+    position: absolute;
+    top: 0;
+    left: -60px;
+    height: 44px; 
+    width:44px;
+}
+.bs-docs-popover .me-avatar {
+    float: right;
+    margin-right: 18px;
+    position: absolute;
+    top: 0px;
+    right: -78px;
+    height: 44px; 
+    width:44px;
+}
+
 .container-narrow {
   margin: 0 auto;
   max-width: 700px; }
