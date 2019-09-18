@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.meiqiu.me/2017/12/18/2017/mysql-tips/</loc>
+    
+    <lastmod>2019-09-17T06:29:34.945Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.meiqiu.me/2017/02/28/2017/java-performance/</loc>
+    
+    <lastmod>2019-09-17T06:10:29.175Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.meiqiu.me/2017/11/06/2017/css-margin-padding-percentages-relative-width/</loc>
+    
+    <lastmod>2019-09-17T06:08:48.786Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.meiqiu.me/2019/07/12/yinwang/learning-philosophy/</loc>
     
     <lastmod>2019-07-16T07:25:11.303Z</lastmod>
@@ -37,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://blog.meiqiu.me/2099/12/25/videos/</loc>
-    
-    <lastmod>2018-09-06T00:26:42.391Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.meiqiu.me/2099/12/24/tags/</loc>
     
     <lastmod>2018-09-06T00:26:42.391Z</lastmod>
@@ -51,7 +65,14 @@
   </url>
   
   <url>
-    <loc>https://blog.meiqiu.me/2099/12/24/hello-world/</loc>
+    <loc>https://blog.meiqiu.me/2099/12/25/videos/</loc>
+    
+    <lastmod>2018-09-06T00:26:42.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.meiqiu.me/2099/12/24/link-post-without-title/</loc>
     
     <lastmod>2018-09-06T00:26:42.356Z</lastmod>
     
@@ -65,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://blog.meiqiu.me/2099/12/24/link-post-without-title/</loc>
+    <loc>https://blog.meiqiu.me/2099/12/24/link-post/</loc>
     
     <lastmod>2018-09-06T00:26:42.356Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.meiqiu.me/2099/12/24/link-post/</loc>
+    <loc>https://blog.meiqiu.me/2099/12/24/hello-world/</loc>
     
     <lastmod>2018-09-06T00:26:42.356Z</lastmod>
     
@@ -110,13 +131,6 @@
     <loc>https://blog.meiqiu.me/2099/12/24/categories/</loc>
     
     <lastmod>2018-09-06T00:26:42.195Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.meiqiu.me/2017/12/18/2017/mysql-tips/</loc>
-    
-    <lastmod>2018-09-05T06:46:06.315Z</lastmod>
     
   </url>
   
@@ -191,23 +205,9 @@
   </url>
   
   <url>
-    <loc>https://blog.meiqiu.me/2017/02/28/2017/java-performance/</loc>
-    
-    <lastmod>2018-09-05T03:58:16.358Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.meiqiu.me/2017/08/31/2017/docker-nodejs-mongodb-redis-nginx/</loc>
     
     <lastmod>2018-09-05T03:58:16.356Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.meiqiu.me/2017/11/06/2017/css-margin-padding-percentages-relative-width/</loc>
-    
-    <lastmod>2018-09-05T03:58:16.354Z</lastmod>
     
   </url>
   
@@ -233,14 +233,14 @@
   </url>
   
   <url>
-    <loc>https://blog.meiqiu.me/2017/08/02/2017/Spring-message-%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</loc>
+    <loc>https://blog.meiqiu.me/2016/12/14/2016/vue-element/</loc>
     
     <lastmod>2018-09-05T03:58:16.342Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.meiqiu.me/2016/12/14/2016/vue-element/</loc>
+    <loc>https://blog.meiqiu.me/2017/08/02/2017/Spring-message-%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</loc>
     
     <lastmod>2018-09-05T03:58:16.342Z</lastmod>
     
